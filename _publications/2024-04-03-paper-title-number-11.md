@@ -1,7 +1,7 @@
 ---
 title: "Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Medical Image Segmentation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-04-03-paper-title-number-11
 excerpt: 'One-shot medical image segmentation (MIS) aims to cope with the expensive time-consuming and inherent human bias annotations. One prevalent method to address one-shot MIS is joint registration and segmentation (JRS) with a shared encoder which mainly explores the voxel-wise correspondence between the labeled data and unlabeled data for better segmentation. ...'
 date: 2024-04-03

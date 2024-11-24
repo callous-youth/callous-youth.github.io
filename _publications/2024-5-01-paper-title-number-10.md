@@ -1,7 +1,7 @@
 ---
 title: "Advancing Generalized Transfer Attack with Initialization Derived Bilevel Optimization and Dynamic Sequence Truncation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-05-03-paper-title-number-10
 excerpt: 'Transfer attacks generate significant interest for real-world black-box applications by crafting transferable adversarial examples through surrogate models. Whereas, existing works essentially directly optimize the single-level objective w.r.t. the surrogate model, which always leads to poor interpretability of attack mechanism and limited generalization performance over unknown victim models. ...'
 date: 2024-10-03

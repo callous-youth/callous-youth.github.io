@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Details in the Dark: Simultaneous Brightening and Zooming for Low-Light Image Enhancement"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-03-24-paper-title-number-8
 excerpt: 'Existing super-resolution methods exhibit limitations when applied to nighttime scenes, primarily due to their lack of adaptation to low-pair dynamic range and noise-heavy dark-light images. In response, this research introduces an innovative customized framework to simultaneously Brighten and Zoom in low-resolution images captured in low-light conditions, dubbed BrZoNet. ...'
 date: 2024-03-24

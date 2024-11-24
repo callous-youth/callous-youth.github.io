@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Images with Coupled Low-Resolution and Ultra-Dark Degradations: A Tri-level Learning Framework"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-10-28-paper-title-number-4
 excerpt: 'Due to device constraints and lighting conditions, captured images frequently exhibit coupled low-resolution and ultra-dark degradations. Enhancing the visibility and resolution of ultra-dark images simultaneously is crucial for practical applications. ...'
 date: 2024-10-28

@@ -1,7 +1,7 @@
 ---
 title: "A Dual-Stream-Modulated Learning Framework for Illuminating and Super-Resolving Ultra-Dark Images"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-07-30-paper-title-number-3
 excerpt: 'Enhancement of image resolution for scenes captured under extremely dim conditions represents a practical yet challenging problem that has received little attention. In such low-light scenarios, the limited lighting and minimal signal clarity tend to intensify issues such as diminished detail visibility and altered color accuracy, which are often more severe during the image enhancement process than in scenarios with adequate lighting. ...'
 date: 2024-07-30

@@ -1,7 +1,7 @@
 ---
 title: "PEARL: Preprocessing Enhanced Adversarial Robust Learning of Image Deraining for Semantic Segmentation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-10-27-paper-title-number-12
 excerpt: 'In light of the significant progress made in the development and application of semantic segmentation tasks, there has been increasing attention towards improving the robustness of segmentation models against natural degradation factors (e.g., rain streaks) or artificially attack factors (e.g., adversarial attack). Whereas, most existing methods are designed to address a single degradation factor and are tailored to specific application scenarios. ...'
 date: 2023-10-27
