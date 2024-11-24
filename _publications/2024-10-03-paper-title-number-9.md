@@ -3,7 +3,7 @@ title: "Uncertainty-Aware Sparse Transformer Network for Single-Image Deraindrop
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-03-paper-title-number-9
-excerpt: 'Image Deraindrop aims to enhance the visibility and clarity of the image by eliminating unwanted visual artifacts, such as raindrops or rain streaks.'
+excerpt: 'Image Deraindrop aims to enhance the visibility and clarity of the image by eliminating unwanted visual artifacts, such as raindrops or rain streaks....'
 date: 2024-10-03
 venue: 'IEEE Transactions on Instrumentation and Measurement (IEEE TIM)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
