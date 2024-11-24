@@ -16,7 +16,6 @@ redirect_from:
 * B.S. in GitHub, GitHub University, 2012 -->
 Education  
 ======  
-
 * **Ph.D. Candidate in Software Engineering** (Master-to-Ph.D. Combined Program)  
   **Dalian University of Technology (DUT)** *(985/211 Program)*  
   - *Institute*: Geometric Computing and Intelligent Media Technology  
