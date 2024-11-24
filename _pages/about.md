@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,41 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-Biography
+
+Introduction  
 ======
-I am a final-year Ph.D. candidate in Software Engineering at the Dalian University of Technology (DUT), expected to graduate in September 2024. I am affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research is advised by Prof. Risheng Liu (National Excellent Young Scholar) and Prof. Xin Fan (Dean).
+I am a final-year Ph.D. candidate in Software Engineering at Dalian University of Technology (DUT), with an expected graduation date in September 2024. I am affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research is supervised by Prof. Risheng Liu (National Excellent Young Scholar) and Prof. Xin Fan (Dean).  
+
+My primary research focuses on **Bi-Level Optimization (BLO)**, encompassing its theoretical foundations, algorithmic development, and diverse applications in machine learning and computer vision. I explore hierarchical coupling challenges in tasks such as low-light image enhancement, medical imaging, and adversarial robustness, aiming to develop efficient optimization strategies to address these complex problems. BLO is a powerful framework for tackling high-dimensional and multi-task visual applications, with notable utility in meta-learning, neural architecture search, and generative learning.  
+
+I previously earned my M.S. in Computational Mathematics (2020) and B.S. in Mathematics and Applied Mathematics (2018) from DUT, under the mentorship of Prof. Zhixun Su. My academic contributions include 12 publications (5 as first or co-first author) in leading journals and conferences, including **IEEE TPAMI**, **IEEE TNNLS**, **ACM MM**, and **Pattern Recognition**, with a cumulative citation count exceeding 250. In addition, I actively serve as a reviewer for prominent venues such as **CVPR**, **ACM MM**, **AAAI**, **IJCAI**, and **NeurIPS**.  
+
+Beyond my research contributions, I have been involved in patent development, contributing to one domestic and two international patents. I have also participated in multiple national key R&D projects and NSFC-funded initiatives, where I addressed practical challenges in robust visual perception under adverse conditions.  
+
+---
+
+Postdoctoral Opportunity
+======  
+I am currently seeking postdoctoral opportunities in areas related to **Bi-Level Optimization**, **Machine Learning**, **Computer Vision**, and **Robust Visual Perception**. I am particularly interested in interdisciplinary collaborations that explore novel optimization methods and their real-world applications. If you are working in these or related areas, I would be delighted to discuss potential collaborations. Please feel free to contact me at **jiaxinn.gao@outlook.com**.  
+
+---
+
+Recent News
+======  
+- [11/2024] One paper titled *"Enhancing Images with Coupled Low-Resolution and Ultra-Dark Degradations: A Tri-level Learning Framework"* got accepted at **ACM MM 2024**.  
+- [10/2024] One paper titled *"A Dual-Stream-Modulated Learning Framework for Illuminating and Super-Resolving Ultra-Dark Images"* got accepted at **IEEE TNNLS 2024**.  
+- [09/2024] One paper titled *"Collaborative Brightening and Amplification of Low-Light Imagery Via Bi-Level Adversarial Learning"* got accepted at **Pattern Recognition (PR) 2024**.  
+- [08/2024] One paper titled *"Bi-level One-Shot Co-op Learning: Coupling Registration with Brain MRI Parcellation"* entered major revision at **IEEE TNNLS**.  
+
+For more info
+------
+For more details, please refer to my [GitHub](https://github.com/moriyaya) or contact me at jiaxinn.gao@outlook.com.
+
+
+
+
+
+<!-- I am a final-year Ph.D. candidate in Software Engineering at the Dalian University of Technology (DUT), expected to graduate in September 2024. I am affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research is advised by Prof. Risheng Liu (National Excellent Young Scholar) and Prof. Xin Fan (Dean).
 
 My research focuses on **Bi-Level Optimization (BLO)**, exploring its theoretical foundations, algorithmic advancements, and applications in machine learning and computer vision. Specifically, I investigate hierarchical coupling challenges in tasks like low-light image enhancement, medical imaging, and adversarial robustness, proposing efficient optimization algorithms to address these complex scenarios. BLO's applications extend to meta-learning, neural architecture search, and generative learning, making it a critical tool for addressing high-dimensional and multi-task visual applications.
 
@@ -31,7 +63,7 @@ Recent News
 [11/2024] One paper titled "Enhancing Images with Coupled Low-Resolution and Ultra-Dark Degradations: A Tri-level Learning Framework" got accepted at ACM MM 2024.
 [10/2024] One paper titled "A Dual-Stream-Modulated Learning Framework for Illuminating and Super-Resolving Ultra-Dark Images" got accepted at IEEE TNNLS 2024. 
 [09/2024] One paper titled "Collaborative Brightening and Amplification of Low-Light Imagery Via Bi-Level Adversarial Learning" got accepted at Pattern Recognition (PR) 2024. 
-[08/2024] One paper titled "Bi-level One-Shot Co-op Learning: Coupling Registration with Brain MRI Parcellation" entered major revision at IEEE TNNLS.
+[08/2024] One paper titled "Bi-level One-Shot Co-op Learning: Coupling Registration with Brain MRI Parcellation" entered major revision at IEEE TNNLS. -->
 
 <!-- Getting started
 ======
@@ -61,8 +93,4 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
-
-For more info
-------
-For more details, please refer to my [GitHub](https://github.com/moriyaya) or contact me at jiaxinn.gao@outlook.com.
 
