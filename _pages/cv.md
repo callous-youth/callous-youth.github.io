@@ -11,11 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2012 -->
+*Ph.D. Candidate in Software Engineering (Master-to-Ph.D. Combined Program)
+Dalian University of Technology (DUT) (985/211 Program)
+Institute of Geometric Computing and Intelligent Media Technology
+Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province
+Sep. 2020 – Sep. 2024 (Expected)
+Advisors: Prof. Risheng Liu (Director, National Excellent Young Scholar), Prof. Xin Fan (Dean)
 
-Work experience
+*M.S. in Computational Mathematics (Admission through Recommendation)
+Dalian University of Technology (DUT) (985/211 Program)
+Institute of Computational Geometry and Graphics
+Key Laboratory of Computational Mathematics and Data Intelligence of Liaoning Province
+Sep. 2018 – Jun. 2020
+Advisor: Prof. Zhixun Su
+
+*B.S. in Mathematics and Applied Mathematics
+Dalian University of Technology (DUT) (985/211 Program)
+School of Mathematical Sciences
+Ranked 4th out of 63 students
+Sep. 2014 – Jun. 2018
+Advisor: Prof. Zhixun Su
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,16 +50,33 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
+
+Skills  
+======  
+* **Strong Research and Analytical Skills**  
+  - Proficient in scientific research, mathematical analysis, and logical reasoning.  
+  - Experienced in managing projects from initiation, application, to mid-term review stages.  
+  - Skilled in technical document preparation and patent writing.  
+
+* **Technical and Language Proficiencies**  
+  - English: CET-6 Certified  
+  - Programming: Matlab, Python  
+  - Core Competencies: Data Structures and Algorithms, Image Processing, Deep Learning, Machine Learning  
+
+* **Academic Peer Review Experience**  
+  - Reviewer for top-tier international conferences, including CVPR, ACM MM, AAAI, ICLR, NeurIPS, IJCAI, and AISTATS.  
+  - Reviewer for leading journals, such as Pattern Recognition (PR) and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).  
+
 
 Publications
 ======
