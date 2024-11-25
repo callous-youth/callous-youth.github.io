@@ -12,13 +12,24 @@ redirect_from:
 
 Introduction  
 ======
-I am a final-year Ph.D. candidate in Software Engineering at Dalian University of Technology (DUT), with an expected graduation date in September 2024. I am affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research is supervised by Prof. Risheng Liu (National Excellent Young Scholar) and Prof. Xin Fan (Dean).  
+I recently completed my Ph.D. in Software Engineering at Dalian University of Technology (DUT) in September 2024. I was affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research was supervised by Prof. Risheng Liu (National Excellent Young Scholar) and Prof. Xin Fan (Dean).
+
+My research focused on **Bi-Level Optimization (BLO)**, encompassing its theoretical foundations, algorithmic advancements, and applications in machine learning and computer vision. Specifically, I developed efficient optimization methods to address hierarchical problems in areas such as low-light image enhancement, medical imaging, and adversarial robustness. BLO also served as a foundation for practical applications in meta-learning, neural architecture search, and generative learning.
+
+I hold an M.S. in Computational Mathematics (2020) and a B.S. in Mathematics and Applied Mathematics (2018) from DUT, where I was mentored by Prof. Zhixun Su. My academic contributions include 12 publications (5 as first or co-first author) in leading journals and conferences, including **IEEE TPAMI**, **IEEE TNNLS**, **ACM MM**, and **Pattern Recognition**, with a cumulative citation count exceeding 250. I have also served as a reviewer for prominent venues, including **CVPR**, **ACM MM**, **AAAI**, and **IJCAI**.
+
+In addition to my publications, I contributed to one domestic and two international patents. I also participated in national key R&D and NSFC-funded projects, where I was responsible for designing and implementing optimization-driven solutions for image processing and machine learning tasks.
+
+
+<!-- I am a final-year Ph.D. candidate in Software Engineering at Dalian University of Technology (DUT), with an expected graduation date in September 2024. I am affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research is supervised by Prof. Risheng Liu (National Excellent Young Scholar) and Prof. Xin Fan (Dean).  
 
 My primary research focuses on **Bi-Level Optimization (BLO)**, encompassing its theoretical foundations, algorithmic development, and diverse applications in machine learning and computer vision. I explore hierarchical coupling challenges in tasks such as low-light image enhancement, medical imaging, and adversarial robustness, aiming to develop efficient optimization strategies to address these complex problems. BLO is a powerful framework for tackling high-dimensional and multi-task visual applications, with notable utility in meta-learning, neural architecture search, and generative learning.  
 
 I previously earned my M.S. in Computational Mathematics (2020) and B.S. in Mathematics and Applied Mathematics (2018) from DUT, under the mentorship of Prof. Zhixun Su. My academic contributions include 12 publications (5 as first or co-first author) in leading journals and conferences, including **IEEE TPAMI**, **IEEE TNNLS**, **ACM MM**, and **Pattern Recognition**, with a cumulative citation count exceeding 250. In addition, I actively serve as a reviewer for prominent venues such as **CVPR**, **ACM MM**, **AAAI**, **IJCAI**, and **NeurIPS**.  
 
 Beyond my research contributions, I have been involved in patent development, contributing to one domestic and two international patents. I have also participated in multiple national key R&D projects and NSFC-funded initiatives, where I addressed practical challenges in robust visual perception under adverse conditions.  
+ -->
+
 
 ---
 
