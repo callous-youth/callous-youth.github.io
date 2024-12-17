@@ -74,7 +74,7 @@ Recent News
 [11/2024] One paper titled "Enhancing Images with Coupled Low-Resolution and Ultra-Dark Degradations: A Tri-level Learning Framework" got accepted at ACM MM 2024.
 [10/2024] One paper titled "A Dual-Stream-Modulated Learning Framework for Illuminating and Super-Resolving Ultra-Dark Images" got accepted at IEEE TNNLS 2024. 
 [09/2024] One paper titled "Collaborative Brightening and Amplification of Low-Light Imagery Via Bi-Level Adversarial Learning" got accepted at Pattern Recognition (PR) 2024. 
-[08/2024] One paper titled "Bi-level One-Shot Co-op Learning: Coupling Registration with Brain MRI Parcellation" entered major revision at IEEE TNNLS. -->
+
 
 <!-- Getting started
 ======
