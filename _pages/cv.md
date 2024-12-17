@@ -18,23 +18,22 @@ redirect_from:
 Education  
 ======  
 * **Ph.D. Candidate in Software Engineering** (Master-to-Ph.D. Combined Program)  
-  **Dalian University of Technology (DUT)** *(985/211 Program)*  
+  **Dalian University of Technology (DUT)** *(985/211)*  
   - *Institute*: Geometric Computing and Intelligent Media Technology  
   - *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
-  - *Advisors*: Prof. Risheng Liu (National Excellent Young Scholar), Prof. Xin Fan (Dean)  
+  - *Advisors*: Prof. Risheng Liu, Prof. Xin Fan
   *Sep. 2020 – Sep. 2024 (Expected)*  
 
 * **M.S. in Computational Mathematics** (Admission through Recommendation)  
-  **Dalian University of Technology (DUT)** *(985/211 Program)*  
+  **Dalian University of Technology (DUT)** *(985/211)*  
   - *Institute*: Computational Geometry and Graphics  
   - *Laboratory*: Key Laboratory of Computational Mathematics and Data Intelligence, Liaoning Province  
   - *Advisor*: Prof. Zhixun Su  
   *Sep. 2018 – Jun. 2020*  
 
 * **B.S. in Mathematics and Applied Mathematics**  
-  **Dalian University of Technology (DUT)** *(985/211 Program)*  
+  **Dalian University of Technology (DUT)** *(985/211)*  
   - *School*: Mathematical Sciences  
-  - *Achievements*: Ranked 4th out of 63 students  
   - *Advisor*: Prof. Zhixun Su  
   *Sep. 2014 – Jun. 2018*  
 
@@ -78,8 +77,8 @@ Skills
   - Core Competencies: Data Structures and Algorithms, Image Processing, Deep Learning, Machine Learning  
 
 * **Academic Peer Review Experience**  
-  - Reviewer for top-tier international conferences, including CVPR, ACM MM, AAAI, ICLR, NeurIPS, IJCAI, and AISTATS.  
-  - Reviewer for leading journals, such as Pattern Recognition (PR) and IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).  
+  - Reviewer for top-tier international conferences, including CVPR, NeurIPS, IJCAI, PRCV, AAAI, ICLR, ICML, AISTATS, CAAI, CICAI.  
+  - Reviewer for leading journals, such as TCSVT, PR, TVC, Neurocomputing. 
 
 
 Publications
@@ -88,18 +87,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
