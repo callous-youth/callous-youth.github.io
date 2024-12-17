@@ -18,21 +18,21 @@ redirect_from:
 Education  
 ======  
 * **Ph.D. Candidate in Software Engineering** (Master-to-Ph.D. Combined Program)  
-  **Dalian University of Technology (DUT)** *(985/211)*  
+  **Dalian University of Technology (DLUT)** *(985/211)*  
   - *Institute*: Geometric Computing and Intelligent Media Technology  
   - *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
   - *Advisors*: Prof. Risheng Liu, Prof. Xin Fan
   *Sep. 2020 – Sep. 2024 (Expected)*  
 
 * **M.S. in Computational Mathematics** (Admission through Recommendation)  
-  **Dalian University of Technology (DUT)** *(985/211)*  
+  **Dalian University of Technology (DLUT)** *(985/211)*  
   - *Institute*: Computational Geometry and Graphics  
   - *Laboratory*: Key Laboratory of Computational Mathematics and Data Intelligence, Liaoning Province  
   - *Advisor*: Prof. Zhixun Su  
   *Sep. 2018 – Jun. 2020*  
 
 * **B.S. in Mathematics and Applied Mathematics**  
-  **Dalian University of Technology (DUT)** *(985/211)*  
+  **Dalian University of Technology (DLUT)** *(985/211)*  
   - *School*: Mathematical Sciences  
   - *Advisor*: Prof. Zhixun Su  
   *Sep. 2014 – Jun. 2018*  
