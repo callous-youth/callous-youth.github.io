@@ -26,16 +26,16 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D."
   location         : "Dalian, Liaoning Province, China"
-  employer         : "School of Software Technology, Dalian University of Technology (DUT)"
+  employer         : "Dalian University of Technology (DUT)"
   uri              : # URL
   email            : "liuyaohua.918@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=6l4tf4kAAAAJ&hl=zh-CN&oi=sra"
-  dblp             : "https://dblp.org/pid/242/1098.html"
+  dblp             : "https://dblp.org/pid/180/2847.html"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0023-1269"
+  orcid            : "https://orcid.org/0000-0002-9057-1645"
   semantic         : # URL
   researchgate     : # URL
   scopus           : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/callous-youth"
+  github           : "callous-youth"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -78,10 +78,11 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'    
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

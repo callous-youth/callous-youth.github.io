@@ -15,28 +15,55 @@ redirect_from:
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012 -->
 
-Education  
-======  
-* **Ph.D. Candidate in Software Engineering** (Master-to-Ph.D. Combined Program)  
-  **Dalian University of Technology (DLUT)** *(985/211)*  
-  - *Institute*: Geometric Computing and Intelligent Media Technology  
-  - *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
-  - *Advisors*: Prof. Risheng Liu, Prof. Xin Fan
-  *Sep. 2020 – Sep. 2024 (Expected)*  
+### **Ph.D. in Software Engineering** *(Rank: 1/27)*  
+**Dalian University of Technology (DLUT)** *(985/211)*  
+- *Institute*: Geometric Computing and Intelligent Media Technology  
+- *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
+- *Advisor*: Prof. Risheng Liu *(Director, National Excellent Young Scholar)*  
+*Sep. 2021 – Jun. 2025 (Expected)*  
 
-* **M.S. in Computational Mathematics** (Admission through Recommendation)  
-  **Dalian University of Technology (DLUT)** *(985/211)*  
-  - *Institute*: Computational Geometry and Graphics  
-  - *Laboratory*: Key Laboratory of Computational Mathematics and Data Intelligence, Liaoning Province  
-  - *Advisor*: Prof. Zhixun Su  
-  *Sep. 2018 – Jun. 2020*  
+### **M.S. in Software Engineering** *(Initial & Final Exam Rank: 4/299, 2/54)*  
+**Dalian University of Technology (DLUT)** *(985/211)*  
+- *Institute*: Geometric Computing and Intelligent Media Technology  
+- *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
+- *Advisor*: Prof. Risheng Liu *(Director, National Excellent Young Scholar)*  
+*Sep. 2019 – Jun. 2021*  
 
-* **B.S. in Mathematics and Applied Mathematics**  
-  **Dalian University of Technology (DLUT)** *(985/211)*  
-  - *School*: Mathematical Sciences  
-  - *Advisor*: Prof. Zhixun Su  
-  *Sep. 2014 – Jun. 2018*  
+### **B.S. in Network Engineering** *(GPA: 3.96/5.0, Rank: 12/124, Top 10%)*  
+**Dalian University of Technology (DLUT)** *(985/211)*  
+- *School*: Computer Science and Technology  
+- *Core Courses*: Basic Engineering Mathematical Analysis I (99), II (99), Probability and Statistics (99)  
+*Sep. 2015 – Jun. 2019*  
 
+---
+
+## Awards  
+- **2024** National Scholarship for Outstanding Students  
+- **2022, 2023, 2024** Excellent Graduate Student Award *(Consecutive 3 years)*  
+- **2021** Second Prize, Best Open-Source Project Award, ICME *(CCF B)*  
+- **2019, 2021** First-Class Academic Scholarship for Master’s and Ph.D. Programs  
+- **2015, 2016** National Inspirational Scholarship *(Top 5%)*, Dalian University of Technology  
+- **2018** Second Prize, 3rd National College Students Academic English Vocabulary Competition  
+- **2016, 2017** National Inspirational Scholarship  
+- **2016, 2017** First-Class Academic Scholarship *(Top 5%)*, Second-Class Academic Scholarship  
+- **2016** Second Prize, 25th Dalian City University Students Mathematics Contest  
+
+---
+
+## Service  
+**Reviewer / PC Member**  
+- **2025**: CVPR, ICML, ICLR, AAAI, ACM MM, ICCV  
+- **2024**: NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM  
+- **2023**: NeurIPS, ICLR, ICML, ACM MM  
+- **2022**: NeurIPS, ICLR  
+
+---
+
+## Skills  
+- **Technical Proficiency**: Python, MATLAB, PyTorch, TensorFlow, C/C++, LaTeX  
+- **Core Competencies**: Data Structures & Algorithms, Image Processing, Machine Learning, Deep Learning  
+- **Project Experience**: Full project lifecycle, including proposal, evaluation, conclusion, and report organization  
+- **Language**: CET-4, CET-6  
 
 <!-- Work experience
 ======
@@ -64,7 +91,7 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Skills  
+<!-- Skills  
 ======  
 * **Strong Research and Analytical Skills**  
   - Proficient in scientific research, mathematical analysis, and logical reasoning.  
@@ -78,7 +105,7 @@ Skills
 
 * **Academic Peer Review Experience**  
   - Reviewer for top-tier international conferences, including CVPR, NeurIPS, IJCAI, PRCV, AAAI, ICLR, ICML, AISTATS, CAAI, CICAI.  
-  - Reviewer for leading journals, such as TCSVT, PR, TVC, Neurocomputing. 
+  - Reviewer for leading journals, such as TCSVT, PR, TVC, Neurocomputing.  -->
 
 
 Publications
