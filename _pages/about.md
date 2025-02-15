@@ -24,7 +24,7 @@ I am a Ph.D. candidate in Software Engineering at Dalian University of Technolog
 
 My research focuses on bi-level optimization, emphasizing its theoretical foundations, algorithmic advancements, and applications in trustworthy machine learning and multimedia. I develop efficient optimization methods for hierarchical learning problems, such as meta-learning, neural architecture search, and generative adversarial networks. Furthermore, I explore coupled vision applications, including image fusion and super-resolution. My research also extends to trustworthy machine learning, addressing adversarial defense and black-box transfer attacks.  
 
-I have authored 10 SCI/EI papers with 197 citations and have 6 additional papers under review. My first-author publications include contributions to NeurIPS, ICML, IJCAI, and ICME,  among others. I have also contributed to two international patents. Additionally, I serve as a reviewer for leading conferences and journals, including CVPR, ACM MM, AAAI, and IJCAI.  
+I have authored 10 SCI/EI papers and have 6 additional papers under review. My first-author publications include contributions to NeurIPS, ICML, IJCAI, and ICME,  among others. I have also contributed to two international patents. Additionally, I serve as a reviewer for leading conferences and journals, including CVPR, ACM MM, AAAI, and IJCAI.  
 
 Beyond research, I actively participate in national key R&D and NSFC-funded projects, designing and implementing optimization-driven solutions for image processing and machine learning tasks. 
 
