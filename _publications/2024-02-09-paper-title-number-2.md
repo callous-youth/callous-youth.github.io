@@ -1,14 +1,14 @@
 ---
-title: "Learning With Constraint Learning: New Perspective, Solution Strategy and Various Applications"
+title: "Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyonds"
 collection: publications
-category: manuscripts
-permalink: /publication/2024-02-09-paper-title-number-2
-excerpt: 'The complexity of learning problems, such as Generative Adversarial Network (GAN) and its variants, multi-task and meta-learning, hyper-parameter learning, and a variety of real-world vision applications, demands a deeper understanding of their underlying coupling mechanisms. ...'
-date: 2024-02-09
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)'
+category: conferences
+permalink: /publication/2021-09-29-paper-title-number-2
+excerpt: 'In recent years, Bi-Level Optimization (BLO) techniques have received extensive attentions from both learning and vision communities. A variety of BLO models in complex and practical tasks are of non-convex follower structure in nature (a.k.a., without Lower-Level Convexity, LLC for short). ...'
+date: 2021-09-29
+venue: 'Advances in Neural Information Processing Systems 34 (NeurIPS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://moriyaya.github.io/files/tpami2.pdf'
-citation: 'Risheng Liu, <strong>Jiaxin Gao</strong>, Xuan Liu, et al. Learning with constraint learning: New perspective, solution strategy and various applications[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.'
+paperurl: 'http://callous-youth.github.io/files/neurips.pdf'
+citation: 'Risheng Liu, <strong>Yaohua Liu</strong>, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond[C]. Advances in Neural Information Processing Systems (NeurIPS), 2021, <span style="color: red;"><strong>Spotlight</strong></span>, <span style="color: red;"><strong>Acceptance Rate ≤ 3% </strong></span>.'
 ---
 
-The complexity of learning problems, such as Generative Adversarial Network (GAN) and its variants, multi-task and meta-learning, hyper-parameter learning, and a variety of real-world vision applications, demands a deeper understanding of their underlying coupling mechanisms. Existing approaches often address these problems in isolation, lacking a unified perspective that can reveal commonalities and enable effective solutions. Therefore, in this work, we proposed a new framework, named Learning with Constraint Learning (LwCL), that can holistically examine challenges and provide a unified methodology to tackle all the above-mentioned complex learning and vision problems. Specifically, LwCL is designed as a general hierarchical optimization model that captures the essence of these diverse learning and vision problems. Furthermore, we develop a gradient-response based fast solution strategy to overcome optimization challenges of the LwCL framework. Our proposed framework efficiently addresses a wide range of applications in learning and vision, encompassing three categories and nine different problem types. Extensive experiments on synthetic tasks and real-world applications verify the effectiveness of our approach. The LwCL framework offers a comprehensive solution for tackling complex machine learning and computer vision problems, bridging the gap between theory and practice.
+In recent years, Bi-Level Optimization (BLO) techniques have received extensive attentions from both learning and vision communities. A variety of BLO models in complex and practical tasks are of non-convex follower structure in nature (a.k.a., without Lower-Level Convexity, LLC for short). However, this challenging class of BLOs is lack of developments on both efficient solution strategies and solid theoretical guarantees. In this work, we propose a new algorithmic framework, named Initialization Auxiliary and Pessimistic Trajectory Truncated Gradient Method (IAPTT-GM), to partially address the above issues. In particular, by introducing an auxiliary as initialization to guide the optimization dynamics and designing a pessimistic trajectory truncation operation, we construct a reliable approximate version of the original BLO in the absence of LLC hypothesis. Our theoretical investigations establish the convergence of solutions returned by IAPTT-GM towards those of the original BLO without LLC. As an additional bonus, we also theoretically justify the quality of our IAPTT-GM embedded with Nesterov’s accelerated dynamics under LLC. The experimental results confirm both the convergence of our algorithm without LLC, and the theoretical findings under LLC.

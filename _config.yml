@@ -8,31 +8,31 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " Jiaxin Gao | Homepage"
+title                    : " Yaohua Liu | Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://moriyaya.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://callous-youth.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "moriyaya/moriyaya.github.io"
+repository               : "callous-youth/callous-youth.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "GJX.jpg"
-  name             : "Jiaxin Gao (高嘉馨)"
+  avatar           : "LYH.png"
+  name             : "Yaohua Liu (刘耀华)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D."
   location         : "Dalian, Liaoning Province, China"
   employer         : "School of Software Technology, Dalian University of Technology (DUT)"
   uri              : # URL
-  email            : "jiaxinn.gao@outlook.com" 
+  email            : "liuyaohua.918@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.sg/citations?user=MWPKMlsAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=6l4tf4kAAAAJ&hl=zh-CN&oi=sra"
   dblp             : "https://dblp.org/pid/242/1098.html"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0023-1269"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/moriyaya"
+  github           : "https://github.com/callous-youth"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

@@ -1,14 +1,14 @@
 ---
-title: "Investigating Bi-Level Optimization for Learning and Vision From a Unified Perspective: A Survey and Beyond"
+title: "Boml: A Modularized Bilevel Optimization Library In Python For Meta Learning"
 collection: publications
-category: manuscripts
-permalink: /publication/2021-12-06-paper-title-number-1
-excerpt: 'Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. ...'
-date: 2021-12-06
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)'
+category: conferences
+permalink: /publication/2021-05-09-paper-title-number-1
+excerpt: 'Meta-learning (a.k.a. learning to learn) has recently emerged as a promising paradigm for a variety of applications. There are now many meta-learning methods, each focusing on different modeling aspects of base and meta learners, but all can be (re)formulated as specific bilevel optimization problems. ...'
+date: 2021-05-09
+venue: 'IEEE International Conference on Multimedia & Expo Workshops (ICMEW)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://moriyaya.github.io/files/tpami1.pdf'
-citation: 'Risheng Liu, <strong>Jiaxin Gao</strong>, Jin Zhang, et al. Investigating bi-level optimization for learning and vision from a unified perspective: A survey and beyond[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021, 44(12): 10045-10067.'
+paperurl: 'http://callous-youth.github.io/files/ICMEW.pdf'
+citation: '<strong>Yaohua Liu</strong>, Risheng Liu. Boml: A Modularized Bilevel Optimization Library In Python For Meta Learning[C]. IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2021, <span style="color: red;"><strong>Best Open Source Project Awards</strong></span>, <span style="color: red;"><strong>Oral</strong></span>.'
 ---
 
-Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. In machine learning and computer vision fields, despite the different motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms. In this paper, we first uniformly express these complex learning and vision problems from the perspective of BLO. Then we construct a best-response-based single-level reformulation and establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties. Last but not least, we discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. A list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs are publicly available at: https://github.com/vis-opt-group/BLO.
+Meta-learning (a.k.a. learning to learn) has recently emerged as a promising paradigm for a variety of applications. There are now many meta-learning methods, each focusing on different modeling aspects of base and meta learners, but all can be (re)formulated as specific bilevel optimization problems. This work presents BOML, a modularized optimization library that unifies several meta-learning algorithms into a common bilevel optimization framework. It provides a hierarchical optimization pipeline together with a variety of iteration modules, which can be used to solve the mainstream categories of meta-learning methods, such as meta-feature-based and meta-initialization-based formulations. The library is written in Python and is available at https://github.com/dutmedia-lab/BOML.
