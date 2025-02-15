@@ -8,6 +8,7 @@ date: 2021-09-29
 venue: 'Advances in Neural Information Processing Systems 34 (NeurIPS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://callous-youth.github.io/files/neurips.pdf'
+slidesurl: 'https://github.com/callous-youth/IAPTT-GM'
 citation: 'Risheng Liu, <strong>Yaohua Liu</strong>, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond[C]. Advances in Neural Information Processing Systems (NeurIPS), 2021, <span style="color: red;"><strong>Spotlight</strong></span>, <span style="color: red;"><strong>Acceptance Rate ≤ 3% </strong></span>.'
 ---
 

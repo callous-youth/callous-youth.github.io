@@ -6,8 +6,8 @@ permalink: /publication/2024-5-01-paper-title-number-5
 excerpt: 'Due to device constraints and lighting conditions, captured images frequently exhibit coupled low-resolution and ultra-dark degradations. Enhancing the visibility and resolution of ultra-dark images simultaneously is crucial for practical applications. ...'
 date: 2024-5-01
 venue: 'ACM International Conference on Multimedia (ACM MM)'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://moriyaya.github.io/files/acmmm1.pdf'
+slidesurl: 'https://github.com/moriyaya/TriCo'
 citation: 'Jiaxin Gao, <strong>Yaohua Liu*</strong>. Enhancing images with coupled low-resolution and ultra-dark degradations: a tri-level learning framework[C]. ACM International Conference on Multimedia (ACM MM), 2024.'
 ---
 

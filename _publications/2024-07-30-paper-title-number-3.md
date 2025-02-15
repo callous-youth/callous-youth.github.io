@@ -7,7 +7,7 @@ excerpt: 'Gradient methods have become mainstream techniques for Bi-Level Optimi
 date: 2023-04-25
 venue: 'International Conference on Machine Learning (ICML)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://callous-youth.github.io/files/icml.pdf'
+slidesurl: 'https://github.com/callous-youth/sl-BAMM'
 citation: 'Risheng Liu, <strong>Yaohua Liu</strong>, Wei Yao, Shangzhi Zeng, Jin Zhang. Averaged Method of Multipliers for Bi-Level Optimization without Lower-Level Strong Convexity[C]. International Conference on Machine Learning (ICML), 2023.'
 ---
 

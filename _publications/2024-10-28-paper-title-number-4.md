@@ -8,6 +8,7 @@ date: 2024-10-28
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://callous-youth.github.io/files/jicai.pdf'
+slidesurl: 'https://github.com/callous-youth/BETAK'
 citation: '<strong>Yaohua Liu</strong>, Jiaxin Gao, Xuan Liu, Xianghao Jiao, Xin Fan, Risheng Liu. Advancing Generalized Transfer Attack with Initialization Derived Bilevel Optimization and Dynamic Sequence Truncation[C]. International Joint Conference on Artificial Intelligence (IJCAI), 2024.'
 ---
 

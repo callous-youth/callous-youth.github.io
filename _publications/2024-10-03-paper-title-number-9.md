@@ -8,6 +8,7 @@ date: 2024-07-30
 venue: 'IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://moriyaya.github.io/files/tnnls1.pdf'
+slidesurl: 'https://github.com/moriyaya/UltraIS'
 citation: 'Jiaxin Gao, Ziyu Yue, <strong>Yaohua Liu</strong>, et al. A Dual-Stream-Modulated Learning Framework for Illuminating and Super-Resolving Ultra-Dark Images[J]. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024.'
 ---
 

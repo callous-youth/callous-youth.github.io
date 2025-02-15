@@ -2,11 +2,11 @@
 title: "Collaborative brightening and amplification of low-light imagery via bi-level adversarial learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-01-paper-title-number-5
+permalink: /publication/2024-10-01-paper-title-number-7
 excerpt: 'Poor light conditions constrain the high pursuit of clarity and visible quality of photography especially smartphone devices. Admittedly, existing specific image processing methods, whether super-resolution methods or low-light enhancement methods, can hardly simultaneously enhance the resolution and brightness of low-light images at the same time. ...'
 date: 2024-10-01
 venue: 'Pattern Recognition (PR)'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://github.com/moriyaya/CollaBA'
 paperurl: 'http://moriyaya.github.io/files/pr1.pdf'
 citation: 'Jiaxin Gao, <strong>Yaohua Liu</strong>, Ziyu Yue, et al. Collaborative brightening and amplification of low-light imagery via bi-level adversarial learning[J]. Pattern Recognition (PR), 2024, 154: 110558.'
 ---

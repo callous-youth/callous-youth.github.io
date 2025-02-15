@@ -8,6 +8,7 @@ date: 2021-05-09
 venue: 'IEEE International Conference on Multimedia & Expo Workshops (ICMEW)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://callous-youth.github.io/files/ICMEW.pdf'
+slidesurl: 'https://github.com/callous-youth/BOML'
 citation: '<strong>Yaohua Liu</strong>, Risheng Liu. Boml: A Modularized Bilevel Optimization Library In Python For Meta Learning[C]. IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2021, <span style="color: red;"><strong>Best Open Source Project Awards</strong></span>, <span style="color: red;"><strong>Oral</strong></span>.'
 ---
 
