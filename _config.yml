@@ -21,7 +21,7 @@ repository               : "callous-youth/callous-youth.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LYH.png"
+  avatar           : "LYH.jpg"
   name             : "Yaohua Liu (刘耀华)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D."
