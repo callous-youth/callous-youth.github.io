@@ -37,6 +37,28 @@ redirect_from:
 
 ---
 
+
+### **Ph.D. Research Projects**  
+**Dalian University of Technology (DLUT)**  
+*Sep. 2021 – Jun. 2025 (Expected)*  
+- *High-dimensional Task Optimization*: Developed advanced algorithms for hyperparameter optimization, neural architecture search (NAS), and generative adversarial networks (GANs)  
+  - *Publications*: NeurIPS *(Spotlight)*, ICML  
+- *Trustworthy Machine Learning*: Designed tailored optimization schemes for adversarial attacks and defenses  
+  - *Publications*: IJCAI, ACM MM  
+- *Multimedia Learning Methods*: Proposed learning-based solutions for super-resolution (SR), semantic segmentation (SS), and image fusion tasks  
+  - *Publications*: ACM MM, PR  
+
+### **M.S. Research Projects**  
+**Dalian University of Technology (DLUT)**  
+*Sep. 2019 – Jun. 2021*  
+- *Gradient-based Bi-Level Optimization Toolbox*: Built an open-source BLO toolbox for meta-learning tasks  
+  - *Award*: Best Open-Source Project Award, ICME  
+- *Typical Learning Tasks*: Conducted research on few-shot classification and reinforcement learning  
+  - *Publications*: IEEE TIP  
+
+---
+
+
 ## Awards  
 - **2024** National Scholarship for Outstanding Students  
 - **2022, 2023, 2024** Excellent Graduate Student Award *(Consecutive 3 years)*  
