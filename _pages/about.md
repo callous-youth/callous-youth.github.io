@@ -1,63 +1,45 @@
 ---
 permalink: /
-title: "Brief Biography"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
-
-
-Introduction  
+Introduction
 ======
-<!-- I recently completed my Ph.D. in Software Engineering at Dalian University of Technology (DLUT) in November 2024. I was affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research was supervised by Prof. [Risheng Liu](https://scholar.google.com.sg/citations?hl=zh-CN&user=DzuhImQAAAAJ) (National Excellent Young Scholar) and Prof. [Xin Fan](https://scholar.google.com.sg/citations?hl=zh-CN&user=vLN1njoAAAAJ) (Dean). 
 
-My research focused on bi-level optimization, encompassing its theoretical foundations, algorithmic advancements, and applications in machine learning and computer vision. Specifically, I developed efficient optimization methods to address hierarchical problems in areas such as low-light image enhancement, medical imaging, and adversarial robustness. BLO also served as a foundation for practical applications in meta-learning, neural architecture search, and generative learning.
+I am currently a Postdoctoral Fellow at the **Visual AI Lab**, **The University of Hong Kong (HKU)**, working with Prof. **[Kai Han](https://www.kaihan.org/)**. 
 
-My academic contributions include 14 publications in leading journals and conferences, including IEEE TPAMI, IEEE TNNLS, ACM MM, CVPR, AAAI, IJCAI, TIM, and Pattern Recognition, with a cumulative citation count exceeding 250. I have also served as a reviewer for prominent venues, including CVPR, ACM MM, AAAI, and IJCAI. 
-In addition to my publications, I contributed to one domestic and two international patents. I also participated in national key R&D and NSFC-funded projects, where I was responsible for designing and implementing optimization-driven solutions for image processing and machine learning tasks. -->
+I received my Ph.D. degree in Software Engineering from **Dalian University of Technology (DLUT)** in June 2025, under the supervision of Prof. [Risheng Liu](https://scholar.google.com.sg/citations?hl=zh-CN&user=DzuhImQAAAAJ) (National Excellent Young Scholar). Prior to that, I conducted research at the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province.
 
+My research focuses on **Optimization for Machine Learning**, with a particular emphasis on Bilevel Optimization (BLO) and its applications in **Trustworthy AI**. I am dedicated to developing reliable and efficient algorithms to address complex challenges in hierarchical learning, security, and multi-modal systems.
 
-I am a Ph.D. candidate in Software Engineering at Dalian University of Technology (DLUT), expecting to graduate in June 2025. I am affiliated with the Institute of Geometric Computing and Intelligent Media Technology and the Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province. My research is supervised by Prof. [Risheng Liu](https://scholar.google.com.sg/citations?hl=zh-CN&user=DzuhImQAAAAJ) (National Excellent Young Scholar).  
+Currently, my research interests center on the following areas:
+* **Optimization for Machine Learning:** Methodology and analysis of Bilevel Optimization, Hyperparameter Optimization, and Neural Architecture Search (NAS).
+* **Trustworthy Machine Learning & Security:** Adversarial Robustness, Black-box Transfer Attacks, and safety alignment in **Large Multi-modal Models (LMMs)**.
+* **Intelligent Agents:** Optimization frameworks for **Mobile/GUI Agents** and their security implications.
 
-My research centers on the development of **reliable and efficient intelligent optimization** algorithms, bridging the domains of machine learning and multimedia. I focus on advancing **hierarchical learning tasks**, such as Hyperparameter Optimization (HO), Meta-Learning, Neural Architecture Search (NAS), and Generative Adversarial Networks (GANs), alongside **coupled vision applications** like Semantic Segmentation (SS), Fusion, and SuperResolution (SR). I also design and implement tailored optimization methods to address key **Trustworthy Machine Learning problems**, including Adversarial Training and Black-box Transfer Attacks. Currently, I am deeply investigating the intricate **learning challenges posed by large-scale machine learning models**, such as fine-tuning, unlearning, and pressing security concerns, including multi-modal attacks and LLM Jailbreaking. 
-
-I have authored 10 SCI/EI papers and have 6 additional papers under review. My first-author publications include contributions to NeurIPS, ICML, IJCAI, and ICME,  among others. I have also contributed to two international patents. Additionally, I serve as a reviewer for leading conferences and journals, including CVPR, ACM MM, AAAI, and IJCAI.  
-
-Beyond research, I actively participate in more than 4 national key R&D and NSFC-funded projects, designing and implementing optimization-driven solutions for image processing and machine learning tasks. 
-
-
-
-
----
-
-Postdoctoral Opportunity
-======  
-I am currently seeking postdoctoral opportunities in areas related to bi-Level optimization, trustworthy machine learning and multimedia. I am particularly interested in interdisciplinary collaborations that explore novel optimization methods and interesting real-world applications like LLM finetuning and security issues. If you are interested in these or related areas, I would be delighted to discuss potential collaborations. Please feel free to contact me at **liuyaohua.918@gmail.com**.  
+My research outcomes have appeared in representative journals and conferences, including **IEEE TPAMI**, **IEEE TNNLS**, **NeurIPS**, **ICML**, **CVPR**, **AAAI**, **IJCAI**, and **ACM MM**. I also serve as a reviewer for venues such as CVPR, ECCV, AAAI, and IJCAI.
 
 ---
 
 Recent News
 ====== 
-- [11/2024] One paper titled *"Enhancing Images with Coupled Low-Resolution and Ultra-Dark Degradations: A Tri-level Learning Framework"* got accepted at **ACM MM 2024**.  
-- [10/2024] One paper titled *"A Dual-Stream-Modulated Learning Framework for Illuminating and Super-Resolving Ultra-Dark Images"* got accepted at **IEEE TNNLS 2024**. 
-- [09/2024] One paper titled *"Collaborative Brightening and Amplification of Low-Light Imagery Via Bi-Level Adversarial Learning"* got accepted at **Pattern Recognition (PR) 2024**.
-- [08/2024] One paper titled *"Advancing Generalized Transfer Attack with Initialization Derived Bilevel Optimization and Dynamic Sequence Truncation"* got accepted at **IJCAI 2024**.   
-- [05/2023] One paper titled *"Averaged method of multipliers for bi-level optimization without lower-level strong convexity"* got accepted at **ICML 2023**.  
-- [8/2023] One paper titled *"PEARL: Preprocessing Enhanced Adversarial Robust Learning of Image Deraining for Semantic Segmentation"* got accepted at **ACM MM 2023**. 
+- **[12/2025]** <span style="color:red">**New!**</span> Our paper *"Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, Analysis and Extensions"* has been accepted by **IEEE TPAMI**.
+- **[11/2024]** One paper on Tri-level Learning Framework for Image Enhancement was accepted to **ACM MM 2024**.  
+- **[10/2024]** One paper on Dual-Stream-Modulated Learning was accepted to **IEEE TNNLS**. 
+- **[09/2024]** One paper titled *"Collaborative Brightening and Amplification of Low-Light Imagery Via Bi-Level Adversarial Learning"* was accepted to **Pattern Recognition (PR)**.
+- **[08/2024]** One paper on Generalized Transfer Attack with Bilevel Optimization was accepted to **IJCAI 2024**.   
+- **[05/2023]** One paper titled *"Averaged method of multipliers for bi-level optimization without lower-level strong convexity"* was accepted to **ICML 2023**.  
+- **[08/2023]** One paper titled *"PEARL: Preprocessing Enhanced Adversarial Robust Learning of Image Deraining for Semantic Segmentation"* was accepted to **ACM MM 2023**. 
 
-For more info
-------
-For more details, please refer to my [GitHub](https://github.com/callous-youth) or contact me here (mail: liuyaohua.918@gmail.com, Phone: +87 18742014196, WeChat: me_for_u, QQ: 919193083).
+---
 
+Contact
+======
+I am always open to academic discussions and potential collaborations, particularly regarding **Optimization for Machine Learning**, **Trustworthy AI Security**, and **Multi-modal Models**.
 
-
-
-
-
-
-
-
-
+* **Email:** liuyaohua.918@gmail.com
+* **Links:** [GitHub](https://github.com/callous-youth) | [Google Scholar](https://scholar.google.com/citations?user=6l4tf4kAAAAJ&hl=en&oi=ao)

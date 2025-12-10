@@ -9,131 +9,69 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
-====== -->
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012 -->
-
-### **Ph.D. in Software Engineering** *(Rank: 1/27)*  
-**Dalian University of Technology (DLUT)** *(985/211)*  
-- *Institute*: Geometric Computing and Intelligent Media Technology  
-- *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
-- *Advisor*: Prof. Risheng Liu *(Director, National Excellent Young Scholar)*  
-*Sep. 2021 – Jun. 2025 (Expected)*  
-
-### **M.S. in Software Engineering** *(Initial & Final Exam Rank: 4/299, 2/54)*  
-**Dalian University of Technology (DLUT)** *(985/211)*  
-- *Institute*: Geometric Computing and Intelligent Media Technology  
-- *Laboratory*: Key Laboratory for Ubiquitous Network and Service Software, Liaoning Province  
-- *Advisor*: Prof. Risheng Liu *(Director, National Excellent Young Scholar)*  
-*Sep. 2019 – Jun. 2021*  
-
-### **B.S. in Network Engineering** *(GPA: 3.96/5.0, Rank: 12/124, Top 10%)*  
-**Dalian University of Technology (DLUT)** *(985/211)*  
-- *School*: Computer Science and Technology  
-- *Core Courses*: Basic Engineering Mathematical Analysis I (99), II (99), Probability and Statistics (99)  
-*Sep. 2015 – Jun. 2019*  
-
----
-
-
-### **Ph.D. Research Projects**  
-**Dalian University of Technology (DLUT)**  
-*Sep. 2021 – Jun. 2025 (Expected)*  
-- *High-dimensional Task Optimization*: Developed advanced algorithms for hyperparameter optimization, neural architecture search (NAS), and generative adversarial networks (GANs)  
-  - *Publications*: NeurIPS *(Spotlight)*, ICML  
-- *Trustworthy Machine Learning*: Designed tailored optimization schemes for adversarial attacks and defenses  
-  - *Publications*: IJCAI, ACM MM  
-- *Multimedia Learning Methods*: Proposed learning-based solutions for super-resolution (SR), semantic segmentation (SS), and image fusion tasks  
-  - *Publications*: ACM MM, PR  
-
-### **M.S. Research Projects**  
-**Dalian University of Technology (DLUT)**  
-*Sep. 2019 – Jun. 2021*  
-- *Gradient-based Bi-Level Optimization Toolbox*: Built an open-source BLO toolbox for meta-learning tasks  
-  - *Award*: Best Open-Source Project Award, ICME  
-- *Typical Learning Tasks*: Conducted research on few-shot classification and reinforcement learning  
-  - *Publications*: IEEE TIP  
-
----
-
-
-## Awards  
-- **2024** National Scholarship for Outstanding Students  
-- **2022, 2023, 2024** Excellent Graduate Student Award *(Consecutive 3 years)*  
-- **2021** Second Prize, Best Open-Source Project Award, ICME *(CCF B)*  
-- **2019, 2021** First-Class Academic Scholarship for Master’s and Ph.D. Programs  
-- **2015, 2016** National Inspirational Scholarship *(Top 5%)*, Dalian University of Technology  
-- **2018** Second Prize, 3rd National College Students Academic English Vocabulary Competition  
-- **2016, 2017** National Inspirational Scholarship  
-- **2016, 2017** First-Class Academic Scholarship *(Top 5%)*, Second-Class Academic Scholarship  
-- **2016** Second Prize, 25th Dalian City University Students Mathematics Contest  
-
----
-
-## Service  
-**Reviewer / PC Member**  
-- **2025**: CVPR, ICML, ICLR, AAAI, ACM MM, ICCV  
-- **2024**: NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM  
-- **2023**: NeurIPS, ICLR, ICML, ACM MM  
-- **2022**: NeurIPS, ICLR  
-
----
-
-## Skills  
-- **Technical Proficiency**: Python, MATLAB, PyTorch, TensorFlow, C/C++, LaTeX  
-- **Core Competencies**: Data Structures & Algorithms, Image Processing, Machine Learning, Deep Learning  
-- **Project Experience**: Full project lifecycle, including proposal, evaluation, conclusion, and report organization  
-- **Language**: CET-4, CET-6  
-
-<!-- Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Postdoctoral Fellow** **The University of Hong Kong (HKU)**, Hong Kong SAR  
+*Sep. 2025 – Present* - **Lab**: Visual AI Lab  
+- **Advisor**: Prof. [Kai Han](https://www.kaihan.org/)  
+- **Research Focus**: Trustworthy Machine Learning, Mobile & GUI Agents, Multi-modal Security, and Optimization Theory.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
-<!-- Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+**Ph.D. in Software Engineering** *(Rank: 1/27)* **Dalian University of Technology (DLUT)**, China  
+*Sep. 2021 – Jun. 2025* - **Advisor**: Prof. Risheng Liu (National Excellent Young Scholar)  
+- **Thesis**: Research on Bilevel Optimization and its Applications in Vision and Learning.
+- **Honors**: National Scholarship (2024), Outstanding Graduate.
 
-<!-- Skills  
-======  
-* **Strong Research and Analytical Skills**  
-  - Proficient in scientific research, mathematical analysis, and logical reasoning.  
-  - Experienced in managing projects from initiation, application, to mid-term review stages.  
-  - Skilled in technical document preparation and patent writing.  
+**M.S. in Software Engineering** *(Rank: 2/54)* **Dalian University of Technology (DLUT)**, China  
+*Sep. 2019 – Jun. 2021* - **Advisor**: Prof. Risheng Liu
+- **Research**: Gradient-based Optimization and Meta-learning.
 
-* **Technical and Language Proficiencies**  
-  - English: CET-6 Certified  
-  - Programming: Matlab, Python  
-  - Core Competencies: Data Structures and Algorithms, Image Processing, Deep Learning, Machine Learning  
+**B.S. in Network Engineering** *(GPA: 3.96/5.0, Top 10%)* **Dalian University of Technology (DLUT)**, China  
+*Sep. 2015 – Jun. 2019* - **Core Courses**: Mathematical Analysis (99), Probability and Statistics (99).
 
-* **Academic Peer Review Experience**  
-  - Reviewer for top-tier international conferences, including CVPR, NeurIPS, IJCAI, PRCV, AAAI, ICLR, ICML, AISTATS, CAAI, CICAI.  
-  - Reviewer for leading journals, such as TCSVT, PR, TVC, Neurocomputing.  -->
+Research Experience
+======
+**Postdoctoral Research @ HKU** *Sep. 2025 – Present* - **Mobile & GUI Agents**: Investigating optimization frameworks for autonomous agents to interact efficiently with mobile interfaces.
+- **Trustworthy Multi-modal Learning**: Exploring security vulnerabilities and defense mechanisms in Large Multi-modal Models (LMMs).
 
+**Doctoral Research @ DLUT** *Sep. 2021 – Jun. 2025* - **Bilevel Optimization (BLO)**: Developed "Augmenting Iterative Trajectory" methods and efficient algorithms for high-dimensional tasks (HO, NAS).
+  - *Representative Works*: **IEEE TPAMI**, **NeurIPS (Spotlight)**, **ICML**.
+- **Trustworthy Machine Learning**: Designed optimization-based schemes for adversarial attacks and defenses.
+  - *Representative Works*: **IJCAI**, **ACM MM**.
+- **Multimedia Optimization**: Applied hierarchical learning to super-resolution and image fusion.
+  - *Representative Works*: **IEEE TNNLS**, **PR**, **ACM MM**.
+
+**Master's Research @ DLUT** *Sep. 2019 – Jun. 2021* - **Open-source Contribution**: Built a gradient-based Bilevel Optimization toolbox.
+  - *Award*: **Best Open-Source Project Award (Second Prize) @ ICME**.
+
+Honors & Awards
+======
+- **2024**: National Scholarship for Outstanding Students
+- **2022-2024**: Excellent Graduate Student Award (Consecutive 3 years)
+- **2021**: Best Open-Source Project Award (Second Prize), ICME (CCF B)
+- **2019, 2021**: First-Class Academic Scholarship for Master’s and Ph.D. Programs
+- **2018**: Second Prize, 3rd National College Students Academic English Vocabulary Competition
+- **2016, 2017**: First-Class / Second-Class Academic Scholarship
+- **2015, 2016**: National Inspirational Scholarship (Top 5%)
+- **2016**: Second Prize, 25th Dalian City University Students Mathematics Contest
+
+Academic Service
+======
+**Conference Reviewer / PC Member**
+- **2025**: CVPR, ICML, ICLR, AAAI, ACM MM, ICCV
+- **2024**: NeurIPS, ICLR, ICML, IJCAI, AAAI, ACM MM
+- **2023**: NeurIPS, ICLR, ICML, ACM MM
+- **2022**: NeurIPS, ICLR
+
+Skills
+======
+- **Programming**: Python, MATLAB, PyTorch, C/C++
+- **Research Areas**: Bilevel Optimization, Trustworthy AI, Large Model Fine-tuning, Agent Systems.
+- **Tools**: LaTeX, Git, Linux Environment
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
