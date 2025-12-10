@@ -3,9 +3,7 @@ title: "Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, A
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-5-paper-title-number-11
-excerpt: 'Abstract—In recent years, there has been a surge of machine learning applications developed with hierarchical structure, which can be
-approached from Bi-Level Optimization (BLO) perspective. However, most existing gradient-based methods overlook the interdependence
-between hyper-gradient calculation and Lower-Level (LL) iterative trajectory, focusing solely on the former. Consequently, convergence theory is constructed with restrictive LL assumptions, which are often challenging to satisfy in real-world scenarios. In this work, we thoroughly analyze the constructed iterative trajectory, and highlight two deficiencies, including empirically chosen initialization and default use of entire trajectory for hyper-gradient calculation. To address these issues, ...'
+excerpt: 'Abstract—In recent years, there has been a surge of machine learning applications developed with hierarchical structure, which can be approached from Bi-Level Optimization (BLO) perspective. However, most existing gradient-based methods overlook the interdependence between hyper-gradient calculation and Lower-Level (LL) iterative trajectory, focusing solely on the former. Consequently, convergence theory is constructed with restrictive LL assumptions, which are often challenging to satisfy in real-world scenarios. In this work, ...'
 date: 2025-12-5
 venue: 'Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
