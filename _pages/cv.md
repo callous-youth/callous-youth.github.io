@@ -38,9 +38,9 @@ Research Experience
 **Doctoral Research @ DLUT** *Sep. 2021 – Jun. 2025* - **Bilevel Optimization (BLO)**: Developed "Augmenting Iterative Trajectory" methods and efficient algorithms for high-dimensional tasks (HO, NAS).
   - *Representative Works*: **IEEE TPAMI**, **NeurIPS (Spotlight)**, **ICML**.
 - **Trustworthy Machine Learning**: Designed optimization-based schemes for adversarial attacks and defenses.
-  - *Representative Works*: **IJCAI**, **ACM MM**.
+  - *Representative Works*: **ECCV**, **ICASSP**, **IJCAI**, **ACM MM**.
 - **Multimedia Optimization**: Applied hierarchical learning to super-resolution and image fusion.
-  - *Representative Works*: **IEEE TNNLS**, **PR**, **ACM MM**.
+  - *Representative Works*: **IEEE TNNLS**, **PR**, **ICMR**, **ACM MM**.
 
 **Master's Research @ DLUT** *Sep. 2019 – Jun. 2021* - **Open-source Contribution**: Built a gradient-based Bilevel Optimization toolbox.
   - *Award*: **Best Open-Source Project Award (Second Prize) @ ICME**.

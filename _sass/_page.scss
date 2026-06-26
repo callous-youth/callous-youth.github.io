@@ -100,6 +100,84 @@
     font-size: $type-size-6;
   }
 
+  .contact-panel {
+    margin-top: 1em;
+    padding: 1.25em;
+    border: 1px solid rgba($border-color, 0.9);
+    border-radius: 8px;
+    background: #fafafa;
+  }
+
+  .contact-panel__intro {
+    margin-bottom: 1em;
+    color: mix(#000, $text-color, 8%);
+    line-height: 1.65;
+  }
+
+  .contact-panel__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75em;
+
+    @include breakpoint(max-width $small) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .contact-panel__item {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    padding: 0.85em 0.95em;
+    border: 1px solid rgba($border-color, 0.85);
+    border-radius: 8px;
+    background: #fff;
+    color: $text-color;
+    text-decoration: none;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+
+    &:hover {
+      border-color: $link-color;
+      box-shadow: 0 4px 14px rgba(#000, 0.08);
+      color: $text-color;
+      text-decoration: none;
+      transform: translateY(-1px);
+    }
+  }
+
+  .contact-panel__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 2.2em;
+    width: 2.2em;
+    height: 2.2em;
+    margin-right: 0.75em;
+    border-radius: 50%;
+    background: rgba($link-color, 0.1);
+    color: $link-color;
+  }
+
+  .contact-panel__label,
+  .contact-panel__value {
+    display: block;
+    min-width: 0;
+  }
+
+  .contact-panel__label {
+    margin-bottom: 0.15em;
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    font-weight: 700;
+    color: mix(#000, $text-color, 18%);
+  }
+
+  .contact-panel__value {
+    overflow-wrap: anywhere;
+    font-size: $type-size-6;
+    color: mix(#fff, $text-color, 12%);
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

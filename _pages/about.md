@@ -21,12 +21,15 @@ Currently, my research interests center on the following areas:
 * **Trustworthy Machine Learning & Security:** Adversarial Robustness, Black-box Transfer Attacks, and safety alignment in **Large Multi-modal Models (LMMs)**.
 * **Intelligent Agents:** Optimization frameworks for **Mobile/GUI Agents** and their security implications.
 
-My research outcomes have appeared in representative journals and conferences, including **IEEE TPAMI**, **IEEE TNNLS**, **NeurIPS**, **ICML**, **CVPR**, **AAAI**, **IJCAI**, and **ACM MM**. I also serve as a reviewer for venues such as CVPR, ECCV, AAAI, and IJCAI.
+My research outcomes have appeared in representative journals and conferences, including **IEEE TPAMI**, **IEEE TNNLS**, **NeurIPS**, **ICML**, **ECCV**, **CVPR**, **AAAI**, **IJCAI**, **ACM MM**, **ICMR**, and **ICASSP**. I also serve as a reviewer for venues such as CVPR, ECCV, AAAI, and IJCAI.
 
 ---
 
 Recent News
 ====== 
+- **[06/2026]** <span style="color:red">**New!**</span> Our paper *"Learning with Bilevel-Minimax Optimization for Efficient and Reliable Transfer Attacks"* has been accepted by **ECCV 2026**.
+- **[06/2026]** <span style="color:red">**New!**</span> Our paper *"SNOC: Subtle Nested Objective Configuration for Joint Ultra-Low-Light Enhancement and Super-Resolution"* has been accepted by **ICMR 2026**.
+- **[05/2026]** <span style="color:red">**New!**</span> Our paper *"Past as Prior: Reweighted Proxy Guidance for Stable Adversarial Training"* has been accepted by **ICASSP 2026**.
 - **[12/2025]** <span style="color:red">**New!**</span> Our paper *"Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, Analysis and Extensions"* has been accepted by **IEEE TPAMI**.
 - **[11/2024]** One paper on Tri-level Learning Framework for Image Enhancement was accepted to **ACM MM 2024**.  
 - **[10/2024]** One paper on Dual-Stream-Modulated Learning was accepted to **IEEE TNNLS**. 
@@ -39,7 +42,32 @@ Recent News
 
 Contact
 ======
-I am always open to academic discussions and potential collaborations, particularly regarding **Optimization for Machine Learning**, **Trustworthy AI Security**, and **Multi-modal Models**.
+<div class="contact-panel">
+  <p class="contact-panel__intro">I am always open to academic discussions and potential collaborations, particularly regarding <strong>Optimization for Machine Learning</strong>, <strong>Trustworthy AI Security</strong>, and <strong>Multi-modal Models</strong>.</p>
 
-* **Email:** liuyaohua.918@gmail.com
-* **Links:** [GitHub](https://github.com/callous-youth) | [Google Scholar](https://scholar.google.com/citations?user=6l4tf4kAAAAJ&hl=en&oi=ao)
+  <div class="contact-panel__grid">
+    <a class="contact-panel__item" href="mailto:liuyaohua.918@gmail.com">
+      <span class="contact-panel__icon"><i class="fas fa-envelope" aria-hidden="true"></i></span>
+      <span>
+        <span class="contact-panel__label">Email</span>
+        <span class="contact-panel__value">liuyaohua.918@gmail.com</span>
+      </span>
+    </a>
+
+    <a class="contact-panel__item" href="https://github.com/callous-youth">
+      <span class="contact-panel__icon"><i class="fab fa-github" aria-hidden="true"></i></span>
+      <span>
+        <span class="contact-panel__label">GitHub</span>
+        <span class="contact-panel__value">callous-youth</span>
+      </span>
+    </a>
+
+    <a class="contact-panel__item" href="https://scholar.google.com/citations?user=6l4tf4kAAAAJ&hl=en&oi=ao">
+      <span class="contact-panel__icon"><i class="ai ai-google-scholar" aria-hidden="true"></i></span>
+      <span>
+        <span class="contact-panel__label">Google Scholar</span>
+        <span class="contact-panel__value">Publication profile</span>
+      </span>
+    </a>
+  </div>
+</div>
