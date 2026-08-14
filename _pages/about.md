@@ -27,7 +27,7 @@ My research outcomes have appeared in representative journals and conferences, i
 
 Recent News
 ====== 
-- **[06/2026]** <span style="color:red">**New!**</span> Our paper *"Learning with Bilevel-Minimax Optimization for Efficient and Reliable Transfer Attacks"* has been accepted by **ECCV 2026**.
+- **[06/2026]** <span style="color:red">**New!**</span> Our paper *"Learning with Bilevel-Minimax Optimization for Efficient and Reliable Transfer Attacks"* has been accepted by **ECCV 2026**. [[Project Page](https://callous-youth.github.io/BMAT/)] [[Code](https://github.com/callous-youth/BMAT)]
 - **[06/2026]** <span style="color:red">**New!**</span> Our paper *"SNOC: Subtle Nested Objective Configuration for Joint Ultra-Low-Light Enhancement and Super-Resolution"* has been accepted by **ICMR 2026**.
 - **[05/2026]** <span style="color:red">**New!**</span> Our paper *"Past as Prior: Reweighted Proxy Guidance for Stable Adversarial Training"* has been accepted by **ICASSP 2026**.
 - **[12/2025]** <span style="color:red">**New!**</span> Our paper *"Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, Analysis and Extensions"* has been accepted by **IEEE TPAMI**.
