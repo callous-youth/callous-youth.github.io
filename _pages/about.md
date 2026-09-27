@@ -27,9 +27,11 @@ My research outcomes have appeared in representative journals and conferences, i
 
 Recent News
 ====== 
+- **[09/2026]** <span style="color:red">**New!**</span> Our paper *"Anchoring Adversarial Trajectories to Data Manifolds: A Bilevel Transfer Optimization Framework"* has been accepted by **NeurIPS 2026** as a <span style="color: red;"><strong>Spotlight</strong></span> presentation, accounting for approximately 3% of accepted papers and 1% of valid submissions.
+- **[09/2026]** <span style="color:red">**New!**</span> Our paper *"Decoupling Direction and Magnitude: Language-Steered Flow Matching for Super-Resolution in the Dark"* has been accepted by **NeurIPS 2026** as a Poster. I serve as the corresponding author.
 - **[06/2026]** <span style="color:red">**New!**</span> Our paper *"Learning with Bilevel-Minimax Optimization for Efficient and Reliable Transfer Attacks"* has been accepted by **ECCV 2026**. [[Project Page](https://callous-youth.github.io/BMAT/)] [[Code](https://github.com/callous-youth/BMAT)]
-- **[06/2026]** <span style="color:red">**New!**</span> Our paper *"SNOC: Subtle Nested Objective Configuration for Joint Ultra-Low-Light Enhancement and Super-Resolution"* has been accepted by **ICMR 2026**.
-- **[05/2026]** <span style="color:red">**New!**</span> Our paper *"Past as Prior: Reweighted Proxy Guidance for Stable Adversarial Training"* has been accepted by **ICASSP 2026**.
+- **[06/2026]** Our paper *"SNOC: Subtle Nested Objective Configuration for Joint Ultra-Low-Light Enhancement and Super-Resolution"* has been accepted by **ICMR 2026**.
+- **[05/2026]** Our paper *"Past as Prior: Reweighted Proxy Guidance for Stable Adversarial Training"* has been accepted by **ICASSP 2026**.
 - **[12/2025]** <span style="color:red">**New!**</span> Our paper *"Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, Analysis and Extensions"* has been accepted by **IEEE TPAMI**.
 - **[11/2024]** One paper on Tri-level Learning Framework for Image Enhancement was accepted to **ACM MM 2024**.  
 - **[10/2024]** One paper on Dual-Stream-Modulated Learning was accepted to **IEEE TNNLS**. 
